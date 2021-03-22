@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\bin\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\bin\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\bin\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\bin\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\bin\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\bin\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\obj\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\obj\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\obj\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\obj\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\obj\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula24-POO-Listas-RemoveAll()\obj\Debug\netcoreapp3.1\Aula24-POO-Listas-RemoveAll().genruntimeconfig.cache

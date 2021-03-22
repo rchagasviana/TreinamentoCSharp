@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\bin\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\bin\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\bin\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\bin\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\bin\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\bin\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula10-POO-AutoProperties\obj\Debug\netcoreapp3.1\Aula11-POO-AutoProperties.genruntimeconfig.cache

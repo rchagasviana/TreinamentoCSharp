@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Aula06_POO_Sobrecarga</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aula07-POO-AtribuicaoAlternativaContrutor\Aula07-POO-AtribuicaoAlternativaContrutor.csproj" />
+  </ItemGroup>
+
+</Project>

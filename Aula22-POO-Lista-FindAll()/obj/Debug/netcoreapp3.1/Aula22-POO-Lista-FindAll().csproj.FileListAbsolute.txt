@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\bin\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\bin\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\bin\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\bin\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\bin\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\bin\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\obj\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\obj\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\obj\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\obj\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\obj\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula22-POO-Lista-FindAll()\obj\Debug\netcoreapp3.1\Aula22-POO-Lista-FindAll().genruntimeconfig.cache

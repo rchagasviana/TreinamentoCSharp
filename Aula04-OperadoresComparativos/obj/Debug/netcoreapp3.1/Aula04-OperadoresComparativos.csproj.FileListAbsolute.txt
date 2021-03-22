@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\bin\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula04-OperadoresComparativos\obj\Debug\netcoreapp3.1\Aula04-OperadoresComparativos.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula19-POO-Listas-Insert()/1.0.0": {
+        "runtime": {
+          "Aula19-POO-Listas-Insert().dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula19-POO-Listas-Insert()/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\bin\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\bin\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\bin\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\bin\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\bin\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\bin\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\obj\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\obj\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\obj\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\obj\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\obj\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-DateTime-Operations\obj\Debug\netcoreapp3.1\Aula32-POO-DateTime-Operations.genruntimeconfig.cache

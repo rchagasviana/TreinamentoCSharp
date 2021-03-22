@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\bin\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\bin\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\bin\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\bin\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\bin\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\bin\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula27-POO-Matrizes-Conceito\obj\Debug\netcoreapp3.1\Aula27-POO-Matrizes-Conceito.genruntimeconfig.cache

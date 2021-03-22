@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula22-POO-Lista-FindAll()/1.0.0": {
+        "runtime": {
+          "Aula22-POO-Lista-FindAll().dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula22-POO-Lista-FindAll()/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

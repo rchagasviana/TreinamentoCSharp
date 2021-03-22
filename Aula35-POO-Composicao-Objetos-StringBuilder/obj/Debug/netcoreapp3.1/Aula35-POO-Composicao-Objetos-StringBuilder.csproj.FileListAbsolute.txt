@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\bin\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\bin\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\bin\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\bin\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\bin\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\bin\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula35-POO-Composicao-Objetos-StringBuilder\obj\Debug\netcoreapp3.1\Aula35-POO-Composicao-Objetos-StringBuilder.genruntimeconfig.cache

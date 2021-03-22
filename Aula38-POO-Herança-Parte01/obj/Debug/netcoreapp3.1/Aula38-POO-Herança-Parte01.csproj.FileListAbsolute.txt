@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\bin\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\bin\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\bin\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\bin\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\bin\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\bin\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.genruntimeconfig.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula38-POO-Herança-Parte01\obj\Debug\netcoreapp3.1\Aula38-POO-Herança-Parte01.csprojAssemblyReference.cache

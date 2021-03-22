@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\bin\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\bin\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\bin\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\bin\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\bin\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\bin\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\obj\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\obj\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\obj\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\obj\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\obj\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula07-POO-AtribuicaoAlternativaContrutor\obj\Debug\netcoreapp3.1\Aula07-POO-AtribuicaoAlternativaContrutor.genruntimeconfig.cache

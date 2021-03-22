@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\bin\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\bin\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\bin\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\bin\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\bin\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\bin\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula14-POO-ModificadorRef\obj\Debug\netcoreapp3.1\Aula14-POO-ModificadorRef.genruntimeconfig.cache

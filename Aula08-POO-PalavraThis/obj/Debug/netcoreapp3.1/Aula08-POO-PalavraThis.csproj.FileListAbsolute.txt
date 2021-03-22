@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\bin\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\bin\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\bin\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\bin\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\bin\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\bin\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula08-POO-PalavraThis\obj\Debug\netcoreapp3.1\Aula08-POO-PalavraThis.genruntimeconfig.cache

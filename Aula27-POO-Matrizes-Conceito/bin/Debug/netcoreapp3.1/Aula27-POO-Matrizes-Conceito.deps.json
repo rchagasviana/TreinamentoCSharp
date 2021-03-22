@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula27-POO-Matrizes-Conceito/1.0.0": {
+        "runtime": {
+          "Aula27-POO-Matrizes-Conceito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula27-POO-Matrizes-Conceito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula28-POO-Matriz-Problema/1.0.0": {
+        "runtime": {
+          "Aula28-POO-Matriz-Problema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula28-POO-Matriz-Problema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\bin\Debug\netcoreapp3.1\Aula03-Vetores.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\bin\Debug\netcoreapp3.1\Aula03-Vetores.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\bin\Debug\netcoreapp3.1\Aula03-Vetores.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\bin\Debug\netcoreapp3.1\Aula03-Vetores.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\bin\Debug\netcoreapp3.1\Aula03-Vetores.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\bin\Debug\netcoreapp3.1\Aula03-Vetores.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula03-Vetores\obj\Debug\netcoreapp3.1\Aula03-Vetores.genruntimeconfig.cache

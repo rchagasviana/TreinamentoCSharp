@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\bin\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\bin\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\bin\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\bin\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\bin\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\bin\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\obj\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\obj\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\obj\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\obj\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\obj\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula19-POO-Listas-Insert()\obj\Debug\netcoreapp3.1\Aula19-POO-Listas-Insert().genruntimeconfig.cache

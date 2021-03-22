@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\bin\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\bin\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\bin\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\bin\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\bin\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\bin\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\obj\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\obj\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\obj\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\obj\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\obj\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula29-POO-Inferencia-PalavraVar\obj\Debug\netcoreapp3.1\Aula29-POO-Inferencia-PalavraVar.genruntimeconfig.cache

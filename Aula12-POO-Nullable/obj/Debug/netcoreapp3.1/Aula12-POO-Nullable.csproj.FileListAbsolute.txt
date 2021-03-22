@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\bin\Debug\netcoreapp3.1\Aula12-POO-Nullable.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\bin\Debug\netcoreapp3.1\Aula12-POO-Nullable.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\bin\Debug\netcoreapp3.1\Aula12-POO-Nullable.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\bin\Debug\netcoreapp3.1\Aula12-POO-Nullable.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\bin\Debug\netcoreapp3.1\Aula12-POO-Nullable.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\bin\Debug\netcoreapp3.1\Aula12-POO-Nullable.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula12-POO-Nullable\obj\Debug\netcoreapp3.1\Aula12-POO-Nullable.genruntimeconfig.cache

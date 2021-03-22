@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\bin\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\bin\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\bin\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\bin\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\bin\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\bin\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\obj\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\obj\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\obj\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\obj\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\obj\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula28-POO-Matriz-Problema\obj\Debug\netcoreapp3.1\Aula28-POO-Matriz-Problema.genruntimeconfig.cache

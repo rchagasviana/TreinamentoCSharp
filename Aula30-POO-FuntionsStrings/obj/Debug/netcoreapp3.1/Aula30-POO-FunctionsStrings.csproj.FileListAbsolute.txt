@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\bin\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\bin\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\bin\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\bin\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\bin\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\bin\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.genruntimeconfig.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula30-POO-FuntionsStrings\obj\Debug\netcoreapp3.1\Aula30-POO-FunctionsStrings.csprojAssemblyReference.cache

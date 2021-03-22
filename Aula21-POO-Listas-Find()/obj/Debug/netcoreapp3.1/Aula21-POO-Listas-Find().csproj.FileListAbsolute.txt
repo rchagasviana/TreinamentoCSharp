@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\bin\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\bin\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\bin\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\bin\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\bin\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\bin\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().genruntimeconfig.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula21-POO-Listas-Find()\obj\Debug\netcoreapp3.1\Aula21-POO-Listas-Find().csprojAssemblyReference.cache

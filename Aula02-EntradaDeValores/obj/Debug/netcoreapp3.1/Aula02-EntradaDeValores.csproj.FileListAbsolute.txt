@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\bin\Debug\netcoreapp3.1\Aula02-EntradaDeValores.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\bin\Debug\netcoreapp3.1\Aula02-EntradaDeValores.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\bin\Debug\netcoreapp3.1\Aula02-EntradaDeValores.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\bin\Debug\netcoreapp3.1\Aula02-EntradaDeValores.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\bin\Debug\netcoreapp3.1\Aula02-EntradaDeValores.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\bin\Debug\netcoreapp3.1\Aula02-EntradaDeValores.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula02-EntradaDeValores\obj\Debug\netcoreapp3.1\Aula02-EntradaDeValores.genruntimeconfig.cache

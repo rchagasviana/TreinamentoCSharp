@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\bin\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\bin\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\bin\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\bin\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\bin\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\bin\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\obj\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\obj\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\obj\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\obj\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\obj\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula20-POO-Listas-Count()\obj\Debug\netcoreapp3.1\Aula20-POO-Listas-Count().genruntimeconfig.cache

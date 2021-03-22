@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\bin\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\bin\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\bin\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\bin\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\bin\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\bin\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\obj\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\obj\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\obj\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\obj\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\obj\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula18-POO-Listas-Parte02\obj\Debug\netcoreapp3.1\Aula18-POO-Listas-Add().genruntimeconfig.cache

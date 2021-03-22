@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\bin\Debug\netcoreapp3.1\Aula16-POO-Foreach.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\bin\Debug\netcoreapp3.1\Aula16-POO-Foreach.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\bin\Debug\netcoreapp3.1\Aula16-POO-Foreach.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\bin\Debug\netcoreapp3.1\Aula16-POO-Foreach.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\bin\Debug\netcoreapp3.1\Aula16-POO-Foreach.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\bin\Debug\netcoreapp3.1\Aula16-POO-Foreach.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\obj\Debug\netcoreapp3.1\Aula16-POO-Foreach.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\obj\Debug\netcoreapp3.1\Aula16-POO-Foreach.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\obj\Debug\netcoreapp3.1\Aula16-POO-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\obj\Debug\netcoreapp3.1\Aula16-POO-Foreach.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\obj\Debug\netcoreapp3.1\Aula16-POO-Foreach.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula16-POO-Foreach\obj\Debug\netcoreapp3.1\Aula16-POO-Foreach.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\bin\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\bin\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\bin\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\bin\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\bin\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\bin\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\obj\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\obj\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\obj\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\obj\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\obj\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula23-POO-Lista-Remove()\obj\Debug\netcoreapp3.1\Aula23-POO-Lista-Remove().genruntimeconfig.cache

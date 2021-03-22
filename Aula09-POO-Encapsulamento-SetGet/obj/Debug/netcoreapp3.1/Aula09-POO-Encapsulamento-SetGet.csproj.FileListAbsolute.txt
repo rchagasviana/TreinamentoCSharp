@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\bin\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\bin\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\bin\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\bin\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\bin\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\bin\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula09-POO-Encapsulamento-SetGet\obj\Debug\netcoreapp3.1\Aula09-POO-Encapsulamento-SetGet.genruntimeconfig.cache

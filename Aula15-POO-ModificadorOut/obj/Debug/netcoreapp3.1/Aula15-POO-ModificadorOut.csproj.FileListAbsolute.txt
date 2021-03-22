@@ -1,0 +1,12 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\bin\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\bin\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\bin\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\bin\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\bin\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\bin\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\obj\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\obj\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\obj\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\obj\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\obj\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula15-POO-ModificadorOut\obj\Debug\netcoreapp3.1\Aula15-POO-ModificadorOut.genruntimeconfig.cache

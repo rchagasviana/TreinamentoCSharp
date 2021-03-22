@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\bin\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\bin\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\bin\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\bin\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\bin\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\bin\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula06-POO-Sobrecarga\obj\Debug\netcoreapp3.1\Aula06-POO-Sobrecarga.genruntimeconfig.cache

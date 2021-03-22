@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\bin\Debug\netcoreapp3.1\Aula05-POO-GetSet.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\bin\Debug\netcoreapp3.1\Aula05-POO-GetSet.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\bin\Debug\netcoreapp3.1\Aula05-POO-GetSet.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.csprojAssemblyReference.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\bin\Debug\netcoreapp3.1\Aula05-POO-GetSet.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\bin\Debug\netcoreapp3.1\Aula05-POO-GetSet.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\bin\Debug\netcoreapp3.1\Aula05-POO-GetSet.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula05-POO-GetSet\obj\Debug\netcoreapp3.1\Aula05-POO-GetSet.genruntimeconfig.cache

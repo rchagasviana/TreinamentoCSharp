@@ -1,0 +1,13 @@
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\bin\Debug\netcoreapp3.1\Aula32-POO-Enum.exe
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\bin\Debug\netcoreapp3.1\Aula32-POO-Enum.deps.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\bin\Debug\netcoreapp3.1\Aula32-POO-Enum.runtimeconfig.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\bin\Debug\netcoreapp3.1\Aula32-POO-Enum.runtimeconfig.dev.json
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\bin\Debug\netcoreapp3.1\Aula32-POO-Enum.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\bin\Debug\netcoreapp3.1\Aula32-POO-Enum.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.AssemblyInfoInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.AssemblyInfo.cs
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.csproj.CoreCompileInputs.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.dll
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.pdb
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.genruntimeconfig.cache
+C:\Users\Rafael-STC\Documents\Desenvolvimento\SCharp-treinamento01\TreinamentoCSharp\Aula32-POO-Enum\obj\Debug\netcoreapp3.1\Aula32-POO-Enum.csprojAssemblyReference.cache
